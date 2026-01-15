@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working and learning Machine learning , DEVOPS and AWS cloud
+I am currently working and learning Machine learning , DEVOPS and AWS cloud
 
 
 ## 🌐 Socials:
