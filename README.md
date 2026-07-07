@@ -88,7 +88,12 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aki-alphon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aki-alphon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="42%"/>
 
-<img src="https://streak-stats.demolab.com/?user=Aki-alphon&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+<!-- Streak card removed for now — the public instance (streak-stats.demolab.com)
+     intermittently fails to fetch contributions. Self-host your own copy at
+     https://github.com/DenverCoder1/github-readme-streak-stats and paste your
+     personal Vercel URL back in here, e.g.:
+<img src="https://github-readme-streak-stats-yourname.vercel.app/?user=Aki-alphon&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=Aki-alphon&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
