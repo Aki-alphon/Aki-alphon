@@ -12,20 +12,12 @@
 
 ## 💫 About Me
 
-```yaml
-current_project: "MAGI — Multispectral Autonomous Ground Intelligence"
-description: >
-  Autonomous Edge AI quadruped robot built from the ground up for
-  high-precision agricultural disease classification.
-collaboration: [Embedded Robotics, Edge AI Vision Pipelines, Cloud-Native Infra]
-seeking_help_with: [Scaling MLOps pipelines, Complex hardware-software deployments]
-currently_learning: [AWS, Kubernetes, Terraform, Multi-cloud strategies]
-ask_me_about: [YOLOv8 on Raspberry Pi, ESP32 motor control, Custom firmware]
-fun_fact: >
-  Pivoted this project from a pesticide sprinkler into a smart
-  disease-classification agent — required engineering a custom power
-  system just to keep all 12 servos alive. 🦿⚡
-```
+- 🔭 Currently working on **Project MAGI** — an autonomous Edge AI quadruped robot built from the ground up for high-precision agricultural disease classification.
+- 👯 Looking to collaborate on **embedded robotics, Edge AI vision pipelines, and cloud-native infrastructure**.
+- 🤝 Looking for help with **scaling MLOps pipelines** and optimizing complex hardware-software deployments.
+- 🌱 Currently learning **AWS, Kubernetes, Terraform**, and multi-cloud strategies.
+- 💬 Ask me about **deploying YOLOv8 on Raspberry Pi, ESP32 motor control**, or building custom firmware.
+- ⚡ **Fun fact:** I completely pivoted this project from a pesticide sprinkler into a smart disease-classification agent — which required engineering a custom power system just to keep all 12 servos running!
 
 <br>
 
@@ -93,8 +85,8 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aki-alphon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aki-alphon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="42%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aki-alphon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aki-alphon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="42%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Aki-alphon&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
