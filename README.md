@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ajay%20Kumar%20Nagpure&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Edge%20AI%20%7C%20Robotics%20%7C%20Cloud-Native%20Infra&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Project+MAGI+%F0%9F%A4%96+%F0%9F%8C%BE;Edge+AI+%2B+Embedded+Robotics+Engineer;Deploying+YOLOv8+on+Raspberry+Pi;ESP32+Firmware+%7C+Custom+Power+Systems;AWS+%7C+Kubernetes+%7C+Terraform+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Project+VOID+%F0%9F%AA%90+%E2%9A%A1;Building+Project+MAGI+%F0%9F%A4%96+%F0%9F%8C%BE;Edge+AI+%2B+Embedded+Robotics+Engineer;Deploying+YOLOv8+on+Raspberry+Pi;ESP32-S3+Firmware+%7C+Custom+FreeRTOS+Kernels;AWS+%7C+Kubernetes+%7C+Terraform+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,19 +12,24 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working on **Project MAGI** — an autonomous Edge AI quadruped robot built from the ground up for high-precision agricultural disease classification.
+- 🔭 Currently engineering **[Project VOID](https://github.com/Aki-alphon/VOID)** — an Edge-Hub-Cloud Cyber-Physical AI Companion & Neural Operator HUD (ESP32-S3 + React Native + Three.js).
+- 🐕 Building **[Project MAGI](https://github.com/Aki-alphon/MAGI-Development)** — an autonomous 12-DOF Edge AI quadruped robot for real-time agricultural disease classification.
 - 👯 Looking to collaborate on **embedded robotics, Edge AI vision pipelines, and cloud-native infrastructure**.
-- 🤝 Looking for help with **scaling MLOps pipelines** and optimizing complex hardware-software deployments.
-- 🌱 Currently learning **AWS, Kubernetes, Terraform**, and multi-cloud strategies.
-- 💬 Ask me about **deploying YOLOv8 on Raspberry Pi, ESP32 motor control**, or building custom firmware.
-- ⚡ **Fun fact:** I completely pivoted this project from a pesticide sprinkler into a smart disease-classification agent — which required engineering a custom power system just to keep all 12 servos running!
+- 🤝 Looking for help with **scaling MLOps pipelines** and optimizing complex hardware-software edge deployments.
+- 🌱 Currently working with **AWS, Kubernetes, Terraform**, and on-device GGUF inference (`llama.cpp`).
+- 💬 Ask me about **deploying YOLOv8 on Raspberry Pi, ESP32 motor control**, or building custom FreeRTOS firmware.
+- ⚡ **Fun fact:** I completely pivoted MAGI from a pesticide sprinkler into a smart disease-classification agent — which required engineering a custom power system just to keep all 12 servos running!
 
 <br>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aki-alphon/Aki-alphon/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aki-alphon/Aki-alphon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aki-alphon/Aki-alphon/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Aki-alphon/Aki-alphon/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 <br>
@@ -85,17 +90,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aki-alphon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aki-alphon&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="42%"/>
+<img src="https://github-readme-stats-blush-seven.vercel.app/api?username=Aki-alphon&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Aki-alphon&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-<!-- Streak card removed for now — the public instance (streak-stats.demolab.com)
-     intermittently fails to fetch contributions. Self-host your own copy at
-     https://github.com/DenverCoder1/github-readme-streak-stats and paste your
-     personal Vercel URL back in here, e.g.:
-<img src="https://github-readme-streak-stats-yourname.vercel.app/?user=Aki-alphon&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
--->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aki-alphon&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy-delta.vercel.app/?username=Aki-alphon&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
@@ -104,7 +102,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aki-alphon&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=Aki-alphon&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 </div>
 
 <br>
